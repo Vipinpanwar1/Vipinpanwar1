@@ -1,16 +1,14 @@
-## Hi there 👋
+# Welcome to Vipin's GitHub Profile 👋
 
-<!--
-**Vipinpanwar1/Vipinpanwar1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## About Me ℹ️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently pursuing B Tech in CSE(AIML)
+- •	🌱 I’m currently working as CSE(AIML), Anand International College of Engineering
+
+
+## Projects 🚀
+
+### CVMap.Ai
+- Description: Developed a website and added ML model which generate the questions based on the uploaded document. Resume builder is also one of the features.
+- Technology Stack: Python, Artificial Neural Networks, Flask, Fast API, HTML, CSS, JavaScript, NLP
