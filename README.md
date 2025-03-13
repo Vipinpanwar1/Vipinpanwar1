@@ -28,7 +28,7 @@
 
 Feel free to reach out to me through the following channels:
 
-- [Email](vipinpanwar181@gmail.com @gmail.com)
+- [Email](vipinpanwar181@gmail.com@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/vipinpanwar)
 - [Portfolio Website/Blog](https://kaabilengineer.github.io/portfolio/)
 
