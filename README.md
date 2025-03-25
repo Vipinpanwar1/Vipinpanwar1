@@ -18,7 +18,7 @@
 ## Skills & Technologies 🛠️
 
 - Programming Languages: Python, Java, C
-- Tools & Technologies: HTML, CSS, Machine Learning, Artificial Neural Networks, JavaScript, Node.js, MySQL, Power BI, Figma, Canva, Git, AWS, AIML, UI/UX Design
+- Tools & Technologies: HTML, CSS, JavaScript, Canva, Git
 
 ## GitHub Stats 📊
 
