@@ -17,7 +17,7 @@
 
 ## Skills & Technologies 🛠️
 
-- Programming Languages: Python, Java, C
+- Programming Languages: Python, C++, C
 - Tools & Technologies: HTML, CSS, JavaScript
 
 ## GitHub Stats 📊
